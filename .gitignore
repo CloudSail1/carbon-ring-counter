@@ -1,0 +1,8 @@
+*/__pycache__
+*.pyc
+*/.*
+.*
+tests/egdata/Gr
+temp.py
+!.gitignore
+!.devcontainer

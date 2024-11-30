@@ -1,0 +1,10 @@
+{
+    "name": "",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "mounts": [
+        "source=F:/Code/data/,target=/mnt/data,type=bind,consistency=cached"
+    ]
+}
